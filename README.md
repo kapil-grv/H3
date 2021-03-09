@@ -11,6 +11,11 @@ This Geojson file could be directly used in QGIS for visualization.
 
 Having said you have a file (CSV or TXT) containing list of H3's , you could use this script to convert them to Polygons which can be visualised in QGIS, etc..,
 
+# Usage:
+
+python H3toGeojson.py input_csv_txt_file_name output_geojson_file_name
+
+
 Sample:
 -----
 
